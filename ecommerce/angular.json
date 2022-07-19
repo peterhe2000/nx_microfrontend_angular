@@ -2,6 +2,8 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "account": "apps/account",
+    "account-e2e": "apps/account-e2e",
     "checkout": "apps/checkout",
     "checkout-e2e": "apps/checkout-e2e",
     "ecommerce": "apps/ecommerce",

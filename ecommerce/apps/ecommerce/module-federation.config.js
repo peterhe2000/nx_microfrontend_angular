@@ -1,4 +1,4 @@
 module.exports = {
   name: 'ecommerce',
-  remotes: ['search', 'checkout'],
+  remotes: ['search', 'checkout', 'account'],
 };
